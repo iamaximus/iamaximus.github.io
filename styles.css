@@ -1,4 +1,6 @@
 panel {
     color: rgb(75, 174, 192);
     display: flex;
+    flex: 1;
+    background-color: aquamarine;
 }
