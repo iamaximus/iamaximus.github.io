@@ -1,0 +1,52 @@
+.header {
+  background-color: #1F2937;
+  transition-duration: 1s;
+  height: 350px;
+  padding: 30px;
+  width: 100%;
+  color: white;
+}
+
+.lower_contrast {
+  color: rgb(185, 181, 181);
+  font-size: 20px;
+}
+
+.extra_bold {
+  font-size: 48px;
+}
+
+button {
+  height: 40px;
+  width: 120px;
+  font-size: large;
+  color: white;
+  background-color: #3882F6;
+  border-width: 0;
+  border-radius: 10px;
+}
+
+#flex_1 {
+  display: flex;
+}
+.wider {
+  flex: 2;
+}
+.regular {
+  flex: 1;
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#flex_2 {
+  display: flex;
+}
+
+#flex div {
+  flex: 1;
+}
