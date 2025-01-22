@@ -2,7 +2,7 @@
 title: Sets Theory - Permutation
 date: 2025-01-21 22:14 +0300
 categories: [Blogging, Study]
-tags: [ blog, personal blog, jekyll, 5920]
+tags: [ blog, personal blog, jekyll, sets]
 author: maksat
 ---
 
