@@ -38,8 +38,14 @@ $2_1\cdot 2_2 \cdot ... \cdot 2_n = 2^n$
 For each  2 options of $x_1$ there are 2 options of $x_2$ and $x_3$ up to $x_n$
 
 ---
-<br>
-<br>
+
+## Cardinality of powerset
+
+A Powerset of a set is the collection of all possible subsets of that set, including the empty set and the set itself.
+
+A powerset of set $A$ is $2^A$ 
+
+$|2^A|$ = $2^{|A|}$
 
 ## Permutation
 A permutation is an arrangement of objects in a definite order. The members or elements of sets are arranged here in a sequence or linear order. For example, the permutation of set A={1,6} is 2, such as {1,6}, {6,1}. As you can see, there are no other ways to arrange the elements of set A.
