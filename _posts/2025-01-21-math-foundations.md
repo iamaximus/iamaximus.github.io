@@ -4,6 +4,7 @@ date: 2025-01-21 22:14 +0300
 categories: [Blogging, Study]
 tags: [ blog, personal blog, jekyll, sets]
 author: maksat
+math: true
 ---
 
 ## Counting subsets
