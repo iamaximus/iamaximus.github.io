@@ -11,7 +11,7 @@ math: true
 
 If set $A$ has $n\geq1$ elements:
 
-$A$ = $\{ x_1, x_2, ... , x_n \}$
+$A = \\{ x_1, x_2, ... , x_n \\}$
 
 We can say that there are $n$ steps with 2 options each. The options are: include that element or not into the subset
 
