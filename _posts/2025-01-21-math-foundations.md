@@ -24,7 +24,7 @@ So by the MR total number of subsets of a set can be counted as follows:
 
 $2_1\cdot 2_2 \cdot ... \cdot 2_n = 2^n$
 
-#
+###
 
 
 |$steps$|$$x_1$$             |$$x_2$$        |$$x_3$$      |$$x_n$$      |
