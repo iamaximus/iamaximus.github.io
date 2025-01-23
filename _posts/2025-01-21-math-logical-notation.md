@@ -30,7 +30,7 @@ $letter(l)\land vowel(l)$
 
 Same in set-builder notation:
 
-$C=\\{l | letter(l) \land vowel(l)\\}$
+$C=\{l|letter(l)\land vowel(l)\}$
 
 
 
