@@ -1,8 +1,8 @@
 ---
-title: CIT5920 - Module 2
+title: Math - Module 2
 date: 2025-01-21 22:14 +0300
 categories: [Blogging, Study]
-tags: [ blog, personal blog, jekyll, sets]
+tags: [ personal blog, math]
 author: maksat
 math: true
 ---
@@ -24,7 +24,7 @@ So by the MR total number of subsets of a set can be counted as follows:
 
 $2_1\cdot 2_2 \cdot ... \cdot 2_n = 2^n$
 
-###
+---
 
 
 |$steps$|$$x_1$$             |$$x_2$$        |$$x_3$$      |$$x_n$$      |
@@ -36,6 +36,8 @@ $2_1\cdot 2_2 \cdot ... \cdot 2_n = 2^n$
 |$$options$$| $$2$$ | $$2$$  | $$2$$ | $$2$$ |
 
 For each  2 options of $x_1$ there are 2 options of $x_2$ and $x_3$ up to $x_n$
+
+---
 <br>
 <br>
 
