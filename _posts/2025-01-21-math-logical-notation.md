@@ -16,21 +16,21 @@ Allows connect basic statements into complex statements
 
 *Example of basic statement:* $~$ *prime(5)*
 
-- Conjunction $~~~$-$~~~$ "and" $~~~$- $~~~$ $\land$
-- Disjunction $~~~~~$- $~~~$"or" $~~~~~$- $~~~$ $\lor$
-- Implication $~~~~~$- $~~~$"or" $~~~~~$- $~~~$ $\Rightarrow$
-- Negation $~~~~~~~~$- $~~~$"or" $~~~~~$- $~~~$ $\neg$
+- Conjunction - "and" - $\land$
+- Disjunction - "or" - $\lor$
+- Implication - "or" - $\Rightarrow$
+- Negation - "or" - $\neg$
 
 ---
 *Examples:*
 
 The letter $l$ is a vowel:
 
-$letter('l')\land vowel('l')$
+$letter(l)\land vowel(l)$
 
 Same in set-builder notation:
 
-$C=\\{\ l | letter('l') \land vowel('l')\ \\}$
+$C=\\{l | letter(l) \land vowel(l)\\}$
 
 
 
