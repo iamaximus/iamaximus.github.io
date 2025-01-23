@@ -1,6 +1,6 @@
 ---
 title: Logical structure - Module 2
-date: 2025-01-21 22:14 +0300
+date: 2025-01-22 23:47 +0300
 categories: [Blogging, Study]
 tags: [ personal blog, math]
 author: maksat
