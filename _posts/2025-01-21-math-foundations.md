@@ -28,10 +28,10 @@ $2_1\cdot 2_2 \cdot ... \cdot 2_n = 2^n$
 
 |$steps$|$$x_1$$             |$$x_2$$        |$$x_3$$      |$$x_n$$      |
 |-------|-----------         |-------------  |-----------  |-----------  |
-|$$1$$  |$\emptyset$ or $x_1$|$\emptyset$    |$\emptyset$|$\emptyset$|
-|$$2$$  |$\emptyset$         |$\emptyset$ or $x_2$  |$\emptyset$|$\emptyset$|
-|$$3$$  |$\emptyset$         |$\emptyset$    |$\emptyset$ or $x_2$ |$\emptyset$|
-|$$n$$  |$\emptyset$         |$\emptyset$    |$\emptyset$ |$\emptyset$ or $x_n$|
+|$$1$$  |$\emptyset$ or $x_1$|$$\emptyset$$    |$$\emptyset$$|$$\emptyset$$|
+|$$2$$  |$$\emptyset$$         |$\emptyset$ or $x_2$  |$$\emptyset$$|$$\emptyset$$|
+|$$3$$  |$$\emptyset$$         |$$\emptyset$$    |$\emptyset$ or $x_2$ |$$\emptyset$$|
+|$$n$$  |$$\emptyset$$         |$$\emptyset$$    |$$\emptyset$$ |$\emptyset$ or $x_n$|
 |$$options$$| $$2$$ | $$2$$  | $$2$$ | $$2$$ |
 
 For each  2 options of $x_1$ there are 2 options of $x_2$ and $x_3$ up to $x_n$
