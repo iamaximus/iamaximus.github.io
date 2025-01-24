@@ -1,5 +1,5 @@
 ---
-title: Combinations - Module 2
+title: Combinations & Quantifiers - Module 2
 date: 2025-01-23 23:47 +0300
 categories: [Blogging, Study]
 tags: [ personal blog, math]
