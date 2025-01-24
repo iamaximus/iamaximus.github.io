@@ -49,5 +49,5 @@ Suppose we have a proposition $P(x,y)$ where $x$ is the row and $y$ is the colum
 |*3*|F|F|**T**|T|
 |*4*|**T**|F|F|T|
 
-The proposition $\forall x \exists y P(x,y)$ - *for all $x$ there exists $y$ such that $P(x,y)* is true because for each row there is a column that has at least one True value.
+The proposition $\forall x \exists y P(x,y)$ - *for all $x$ there exists $y$ such that $P(x,y)$* is true because for each row there is a column that has at least one True value.
 
