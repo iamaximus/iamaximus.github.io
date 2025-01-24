@@ -1,7 +1,7 @@
 ---
 title: Math - Module 2
 date: 2025-01-21 22:14 +0300
-categories: [Blogging, Study]
+categories: [Study, Math]
 tags: [ personal blog, math]
 author: maksat
 math: true

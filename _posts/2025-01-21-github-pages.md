@@ -1,8 +1,8 @@
 ---
 title: Starting A Blog Hosted On Github Pages
 date: 2025-01-21 21:14 +0300
-categories: [Blogging, Tutorial]
-tags: [github-pages, blog, personal blog, jekyll]
+categories: [Tutorial, documentation]
+tags: [github-pages]
 author: maksat
 ---
 

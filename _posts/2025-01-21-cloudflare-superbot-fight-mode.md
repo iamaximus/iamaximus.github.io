@@ -1,8 +1,8 @@
 ---
 title: Cloudflare Super Bot Fight Mode
 date: 2025-01-21 21:14 +0300
-categories: [Blogging, Tutorial]
-tags: [github-pages, blog, personal blog, jekyll]
+categories: [Tutorial, Documentation]
+tags: [ personal blog, projects, cloud]
 author: maksat
 ---
 
