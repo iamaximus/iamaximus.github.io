@@ -1,5 +1,13 @@
 ---
 layout: projects
-icon: fas file-code-o
+icon: fa fa-file-code-o
 order: 2
 ---
+
+## Projects
+
+### RDS storage downsize
+
+### Host WP website on K8s
+
+### Dobush
