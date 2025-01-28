@@ -24,3 +24,14 @@ Eg: Configuration of 2 balls ( $\star$ )  in 3 bins ( | )
 |0|1|1|$\| ~ \star ~ \| ~ \star$|
 |0|0|2|$\| ~ \| ~ \star ~ \star$|
 
+## Negating Statements
+
+The negation of disjunction is conjunction\
+The negation of conjunction is disjunction
+
+*De Morgan's Laws*
+
+$\neg (P1 \vee P2) $ is $(\neg P1) \wedge (\neg P2)$
+
+$\neg (P1 \wedge P2) $ is $(\neg P1) \vee (\neg P2)$
+
